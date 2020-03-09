@@ -97,4 +97,4 @@ export const LANGUAGES = {
     }
 }
 
-export const APP_NAME = "Scheduler"
+export const APP_NAME = "Schedu"
